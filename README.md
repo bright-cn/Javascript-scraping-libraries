@@ -1,6 +1,6 @@
 # 最佳 JavaScript 网络数据采集库
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
 
 探索最优秀的 JavaScript 网络数据采集库，它们的主要特性，以及一张方便的对比表，帮助你为项目找到理想的工具。
 
