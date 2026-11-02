@@ -1,6 +1,6 @@
 # 最佳 JavaScript 网页爬虫库
 
-[![推广](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
+[![推广](https://github.com/bright-cn/Awesome-Web-Scraping/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://www.bright.cn/) 
 
 探索最佳 JavaScript 网页爬虫库、主要功能和实用对比表，为你的项目找到理想工具。
 
