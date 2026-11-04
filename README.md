@@ -133,4 +133,4 @@ JavaScript 网页爬虫库通过发送 [HTTP 请求](https://www.bright.cn/gloss
 - [Glassdoor 抓取工具](https://www.bright.cn/products/web-scraper/glassdoor)
 - [房地产爬虫工具](https://www.bright.cn/products/web-scraper/real-estate)
 - [Yelp 抓取工具](https://www.bright.cn/products/web-scraper/yelp)
-- [Google 地图爬虫](https://brightdata.com/products/serp-api/google-search/maps)
+- [Google 地图爬虫](https://www.bright.cn/products/web-scraper/google-maps)
